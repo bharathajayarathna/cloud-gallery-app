@@ -1,4 +1,4 @@
-# Gallery Drive App
+# Cloud Gallery App
 
 Gallery Drive App is a web application that allows users to upload, store, download, and share photos. It provides a user-friendly interface for managing and organizing your image gallery.
 
@@ -49,6 +49,9 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 5. Submit a pull request.
 
 ## Screenshots
+![gallery-app(1)](https://github.com/bharathajayarathna/cloud-gallery-app/assets/128476693/5b8795c8-b885-4fec-a989-6880c704c6cb)
+![gallery-app(2)](https://github.com/bharathajayarathna/cloud-gallery-app/assets/128476693/4d76062e-3718-44f6-a21c-6c4a2aca7466)
+
 
 
 ## License
