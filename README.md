@@ -49,8 +49,7 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 5. Submit a pull request.
 
 ## Screenshots
-![gallery-app(1).png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2Fgallery-app%281%29.png)
-![gallery-app(2).png](..%2F..%2F..%2F..%2FPictures%2FScreenshots%2Fgallery-app%282%29.png)
+
 
 ## License
 
